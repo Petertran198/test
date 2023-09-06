@@ -1,0 +1,22 @@
+.home {
+  height: 100vh;
+  background-color: red;
+}
+
+.home-bg {
+  background-image: url("https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80");
+  background-size: cover; /* or contain, or other options */
+  background-repeat: no-repeat;
+  background-position: "left bottom";
+}
+
+.home-logo {
+  position: absolute;
+  top: 60%;
+  left: 55%;
+}
+
+.h1 {
+  font-size: 4rem;
+  color: aqua;
+}
